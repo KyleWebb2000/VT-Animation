@@ -11,5 +11,4 @@ const animation = () => {
         }
 }
 
-//animation();
 setInterval(animation, 4000);
